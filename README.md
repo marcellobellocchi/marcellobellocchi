@@ -1,3 +1,5 @@
+<img src="./assets/userbox.svg" align="left" alt="">
+
 <div align="right">
   <table align="right">
     <tr>
@@ -14,4 +16,4 @@
   </table>
 </div>
 
-<img src="./ninah.jpg" width="1080">
+<img src="assets/ninah.jpg" width="1080" alt="">
