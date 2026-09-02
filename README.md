@@ -1,7 +1,6 @@
-<div>
-    <br><br>    
-    <img src="./assets/userbox.jpg" align="left" width="400" alt="">
-</div>
+<img src="./assets/spacer.png" width="1" height="20" alt="">
+<br>
+<img src="./assets/userbox.jpg" align="left" width="400" alt="">
 
 <div align="right">
   <table align="right">
