@@ -1,4 +1,6 @@
-<img src="./assets/userbox-padded.png" align="left" width="400" alt="">
+<kbd>
+    <img src="./assets/userbox.jpg" align="left" width="400" alt="">
+</kbd>
 
 <div align="right">
   <table align="right">
