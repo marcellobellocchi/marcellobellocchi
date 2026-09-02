@@ -1,3 +1,12 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/8alsdP21mQ0AAAAC/fadding-cat.gif" alt="Cat" width="1050">
+<p align="right">
+  <i>
+      The mystery of human existence lies not<br>
+      in just staying alive,<br>
+      but in finding something to live for.
+  </i>
+  <br><br>
+  <sup>
+    — Fyodor Dostoevsky
+  </sup> 
 </p>
+
