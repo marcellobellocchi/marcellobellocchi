@@ -1,13 +1,9 @@
-<table align="left" border="0">
+<table align="right">
   <tr>
     <td align="left" valign="middle">
       <img src="./assets/userbox.jpg" width="428" alt="">
     </td>
-  </tr>
-</table>
-
-<table align="right">
-  <tr>
+    <td width="120"></td>
     <td align="right" valign="middle">
       <i>
         The mystery of human existence lies not in just staying alive, <br>
