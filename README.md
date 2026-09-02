@@ -1,7 +1,7 @@
 <table align="left" border="0">
   <tr>
     <td align="left" valign="middle">
-      <img src="./assets/userbox.jpg" width="400" alt="">
+      <img src="./assets/userbox.jpg" width="428" alt="">
     </td>
   </tr>
 </table>
