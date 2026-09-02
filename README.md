@@ -1,6 +1,7 @@
-<kbd>
+<div>
+    <br><br>    
     <img src="./assets/userbox.jpg" align="left" width="400" alt="">
-</kbd>
+</div>
 
 <div align="right">
   <table align="right">
