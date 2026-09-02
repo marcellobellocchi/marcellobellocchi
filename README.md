@@ -10,3 +10,4 @@
   </sup> 
 </p>
 
+<img src="./ninah.jpg" width="1080">
