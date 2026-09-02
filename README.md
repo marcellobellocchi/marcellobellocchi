@@ -1,4 +1,4 @@
-<img src="./assets/userbox.svg" align="left" alt="">
+<img src="./assets/userbox.jpg" align="left" vspace="20" alt="">
 
 <div align="right">
   <table align="right">
