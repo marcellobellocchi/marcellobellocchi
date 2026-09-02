@@ -1,4 +1,4 @@
-<img src="./assets/userbox.jpg" align="left" vspace="20" alt="">
+<img src="./assets/userbox-padded.png" align="left" width="400" alt="">
 
 <div align="right">
   <table align="right">
