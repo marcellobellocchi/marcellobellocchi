@@ -10,4 +10,6 @@
   </i>
 </p>
 
-<img src="assets/ninah.jpg" width="1080" alt="">
+<a href="https://youtu.be/0lD-aNuvDhA?si=tWNjEMF5BfNi1Mji">
+  <img src="assets/ninah.jpg" width="1080" alt="">
+</a>
